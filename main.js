@@ -200,7 +200,6 @@ function hiButton(){
   alert("Hello world");
 }
 
-//Resource https://www.youtube.com/watch?v=OpajusnOfYo
 onkeyup="lettersOnly(this)"
 function lettersOnly (input) {
   var regex = /[^a-z]/gi;
